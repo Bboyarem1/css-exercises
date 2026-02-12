@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.number-one,
+ .number-five {
+  background-color: pink;
+  font-family: Verdana, Dejavu Sans, sans-serif;
+}
+#number-two {
+  color: blue;
+  font-size: 36px;
+}
+
+.number-thre {
+  
+    background-color: pink;
+    font-size: 24px;
+}
+
+#number-four {
+  background-color: lightgreen;
+  font-size: 24px ;
+  font-weight: bold;
+}
